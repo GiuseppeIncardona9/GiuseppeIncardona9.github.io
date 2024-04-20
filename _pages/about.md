@@ -23,7 +23,9 @@ My professional journey began as a Business Analyst Apprentice at Intesa Sanpaol
 
 At SOHO House UK Ltd in London, I leveraged advanced analytics to enhance customer engagement, achieving a 15% increase in seasonal sales and a 10% reduction in churn through predictive modelling.
 
-Throughout my academic and professional career, I have engaged in over 16 projects, applying knowledge in Natural Language Processing (NLP), both supervised and unsupervised learning methods, and diverse data modeling approaches. My skills extend to statistical programming languages, data cleansing, validation and the utilization of business intelligence tools. You can review the portfolio section of my profile to explore examples of my work, showcasing my methodologies and the results achieved.
+Throughout my academic and professional career, I have engaged in over 16 projects, applying knowledge in Natural Language Processing (NLP), both supervised and unsupervised learning methods, and diverse data modeling approaches. My skills extend to statistical programming languages, data cleansing, validation and the utilization of business intelligence tools. 
+
+You can review the portfolio section of my profile to explore examples of my work, showcasing my methodologies and the results achieved.
 
 I hold professional certifications in Microsoft Office and have received accolades such as the Management & Marketing School Prize for the best undergraduate project from the University of Greenwich, where I earned a BA in Hospitality Management with first-class honours
 
