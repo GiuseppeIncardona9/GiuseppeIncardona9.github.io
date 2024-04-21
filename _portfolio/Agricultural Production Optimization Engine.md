@@ -1,6 +1,6 @@
 ---
 title: "Agricultural Production Optimization Engine"
-excerpt: "Short description of portfolio item number. <br/><img src='/images/Agri.png'>"
+excerpt: "This is a freelance project completed for AZ.AGR. NICOSIA CARMELA where I applied machine learning models for crop yield prediction. <br/><img src='/images/Agri.png'>"
 collection: portfolio
 ---
 
