@@ -1,6 +1,6 @@
 ---
 title: "Agricultural Production Optimization Engine"
-excerpt: "Short description of portfolio item number. <br/><img src='/images/agri.png'>"
+excerpt: "Short description of portfolio item number. <br/><img src='/images/Agri.png'>"
 collection: portfolio
 ---
 
