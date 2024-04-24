@@ -3,7 +3,7 @@ title: "Identifying New AI Solutions for India's Emerging Markets"
 excerpt: "In this project, I analysed startup funding in India from 2017 to 2021, focusing on the roles of location and sector. Using Multiple Imputation by Chained 
 Equations (MICE) to handle missing data, I discovered significant impacts from global events like the COVID-19 pandemic on startup trends, particularly in technology and fintech
 sectors. Bengaluru stood out as a major funding hub. Recommendations for startups include targeting high-growth areas, developing a viable product, and forming a strong team to 
-enhance their attractiveness to investors, aligning with the trends observed in the ecosystem. <br/><img src='/images/ai.png'>"
+enhance their attractiveness to investors, aligning with the trends observed in the ecosystem. <br/><img src='/images/ST.webp'>"
 collection: portfolio
 ---
 
