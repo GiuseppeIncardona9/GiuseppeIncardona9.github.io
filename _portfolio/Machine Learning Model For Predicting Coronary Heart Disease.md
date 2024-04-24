@@ -5,7 +5,7 @@ The research team applies various supervised machine learning algorithms to dete
 recall. Key health indicators like systolic blood pressure, tobacco usage, and LDL cholesterol levels are analyzed for their association with CHD. After a rigorous testing 
 process that includes ten-fold stratified cross-validation, the Gaussian Naïve Bayes model is identified as particularly suitable due to its high sensitivity, which is crucial 
 for diagnosing CHD and ensuring fewer cases go undiagnosed. This choice underscores the importance of patient safety, aiming to maximize the detection of all potential CHD cases. 
-<br/><img src='/images/heart.webp'>"
+<br/><img src='/images/ML.webp'>"
 collection: portfolio
 ---
 
