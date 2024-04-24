@@ -1,6 +1,6 @@
 ---
 title: "Customer Churn Prediction Model"
-excerpt: "This project develops a predictive model to identify early signs of customer churn at a popular UK grocery store chain, using deep learning techniques on historical transaction data. By analyzing patterns of customer engagement, the model forecasts future purchase behaviors and identifies potential churn risks, allowing proactive retention strategies to be implemented effectively. <br/><img src='/images/CPM.webp'>"
+excerpt: "This project develops a predictive model to identify early signs of customer churn at a popular UK grocery store chain, using deep learning techniques on historical transaction data. By analyzing patterns of customer engagement, the model forecasts future purchase behaviors and identifies potential churn risks, allowing proactive retention strategies to be implemented effectively. <br/><img src='/images/bo.PNG'>"
 collection: portfolio
 ---
 
