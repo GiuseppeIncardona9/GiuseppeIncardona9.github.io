@@ -20,4 +20,4 @@ cross-validation approach to handle the dataset's class imbalance, and performan
 The final phase involves selecting the optimal model. The study confirms the "No Free Lunch" theorem, indicating no single model is best for all scenarios. 
 However, specific models excel in important medical metrics. While Logistic Ridge Regression shows high accuracy and precision, Naïve Bayes is chosen for its high recall, 
 making it highly effective in reducing undiagnosed CHD cases. This choice underscores the project's emphasis on maximizing patient safety by prioritising the detection of 
-potential CHD cases, even at the risk of some false positives. The code and report for this project can be found [here](https://github.com/GiuseppeIncardona9/Data-Driven-Projects/tree/main)
+potential CHD cases, even at the risk of some false positives. The code and report for this project can be found [here](https://github.com/GiuseppeIncardona9/Data-Driven-Projects/tree/main/Machine%20Learning%20Model%20%20For%20Predicting%20Coronary%20Heart%20Disease)
