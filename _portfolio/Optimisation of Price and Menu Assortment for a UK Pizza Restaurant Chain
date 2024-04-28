@@ -1,5 +1,5 @@
 ---
-title: " Optimisation of Price and Menu Assortment for a UK Pizza Restaurant Chain "
+title: "Optimisation of Price and Menu Assortment for a UK Pizza Restaurant Chain"
 excerpt: "The aim of this project was to enhance the profitability of a UK-based pizza chain facing financial challenges. I developed a comprehensive pricing strategy that includes dynamic pricing, tailored pricing for students, and menu assortment optimization. Utilising simulated consumer data, the strategy focuses on optimising prices for peak and non-peak periods and special student rates. I used techniques like demand modeling, linear regression and optimization models to adjust pricing and menu offerings strategically, aiming to maximise revenue and ensure operational efficiency in response to economic pressures. <br/><img src='/images/pizza.webp'>"
 collection: portfolio
 ---
@@ -12,3 +12,4 @@ pricing strategies to maximise revenue while ensuring customer satisfaction and 
 strategically adjusting pizza prices and assortments, thereby ensuring the chain's growth and sustainability in a competitive market. The code for this project can be found [here](https://github.com/GiuseppeIncardona9/Data-Driven-Projects/tree/main/Pizza%20Pilgrims%20Price%20Optimisation)
 
 
+I am a proactive individual with a deep passion for technology, business, and artificial intelligence. With a background as a high-performance swimmer for 5 years, I bring discipline, a growth mind-set, and exceptional time-management skills to every endeavor. As an engineer and business analyst with a strong focus on leveraging cutting-edge technologies, I am excited to explore the intersection of data-driven insights and transformative technologies. I am passionate about business transformation, and I aim to drive innovation and create meaningful impact in today's dynamic business landscape.
