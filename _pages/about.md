@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
 👨‍💻 I am a Business Analytics postgraduate student at Bayes Business School (formerly CASS)
 
 🤩 Thrilled to use my expertise to help organisations make data-driven decisions
@@ -16,18 +14,15 @@ redirect_from:
 
 🛫 When I'm not analysing data, I enjoy travelling, reading, playing games and researching market trends. I speak English, Italian and French at an intermediate level
 
+🏆 I am the recipient of the 'Management & Marketing School Prize for the best undergraduate project' at the University of Greenwich and hold professional certifications in Microsoft Office Specialist: Word Expert and Excel Expert (Office 2019)
+
 # Biography
-I am an innovative data scientist and analyst with a strong foundation in programming and data analysis. With a proven track record of enhancing business operations and profitability across the financial and hospitality sectors, I bring a unique blend of technical skills and business acumen. My expertise spans Python, R, SQL and various programming frameworks such as TensorFlow and PyTorch, as well as advanced data visualisation tools including Tableau and PowerBI.
+I am a dynamic and proactive professional, deeply passionate about technology, business, and artificial intelligence. My background as a high-performance judo athlete for 5 years instilled in me a disciplined approach, a growth mindset and exceptional time-management skills, which I apply to every professional endeavour. As an innovative data scientist and analyst, I am driven by the opportunities at the intersection of data-driven insights and transformative technologies. My ambition is to catalyse business transformation and make a meaningful impact in today's rapidly evolving business landscape.
 
-My professional journey began as a Business Analyst Apprentice at Intesa Sanpaolo Group in Milan, where I significantly improved risk assessment processes and data analysis efficiency, achieving a 20% reduction in operational risks. Progressing to a Junior Data Scientist role at Alkemy, I spearheaded data management for over 200 startup companies and developed predictive models that increased customer engagement.
+This commitment extends into my professional journey, where I have significantly enhanced business operations and profitability across diverse sectors, including finance, consulting, and hospitality. Bringing a unique blend of technical prowess and business insight, my expertise spans essential technologies such as Python, R, SQL, TensorFlow and PyTorch, further complemented by my proficiency in advanced data visualisation tools like Tableau and PowerBI.
 
-At SOHO HOUSE UK Ltd in London, I leveraged advanced analytics to enhance customer engagement, achieving a 15% increase in seasonal sales and a 10% reduction in churn through predictive modelling.
+My professional journey began as a Business Analyst Apprentice at Intesa Sanpaolo Group in Milan, where I significantly improved risk assessment processes and data analysis efficiency, achieving a 20% reduction in operational risks. Progressing to a Junior Data Scientist role at Alkemy, I led data management initiatives for +200 startup companies and collaborated with the Marketing and Operations department to develop predictive models designed to enhance customer engagement for our clients. Continuing my journey in the UK, I joined SOHO HOUSE in London, where I applied advanced analytics to boost members' engagement. My efforts led to a 15% increase in seasonal sales and a 10% reduction in churn through the use of sophisticated predictive modelling.
 
-Throughout my academic and professional career, I have engaged in over 16 projects, applying knowledge in Natural Language Processing (NLP), both supervised and unsupervised learning methods, and diverse data modeling approaches. My skills extend to statistical programming languages, data cleansing, validation and the utilization of business intelligence tools. 
+Throughout my academic and professional career, I have contributed to over 16 projects, where I applied my knowledge in Natural Language Processing (NLP), supervised and unsupervised learning methods, and a variety of data modelling techniques. My capabilities extend to statistical programming, data cleansing, validation, and the utilisation of sophisticated business intelligence tools.
 
-You can review the portfolio section of my profile to explore examples of my work, showcasing my methodologies and the results achieved.
-
-I hold professional certifications in Microsoft Office and have received accolades such as the Management & Marketing School Prize for the best undergraduate project from the University of Greenwich, where I earned a BA in Hospitality Management with first-class honours
-
-
-
+You can explore a range of successful projects in the portfolio section of my profile, where I highlight my methodologies and the impactful results I have achieved.
