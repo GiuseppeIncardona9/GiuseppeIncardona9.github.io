@@ -10,9 +10,9 @@ redirect_from:
 
 📚 I am currently working towards my master's research project, which involves developing an identity resolution framework. This framework matches over 1.1 million Linux Kernel emails to contributors using ML and NLP, crafting algorithms that analyze coding styles and discussion patterns to enhance contributor identification in large-scale open-source project
 
-🛫 When I'm not analysing data, I enjoy travelling, reading, playing games and researching market trends. I speak English, Italian and French at an intermediate level
-
 🏆 I am the recipient of the 'Management & Marketing School Prize for the best undergraduate project' at the University of Greenwich and hold professional certifications in Microsoft Office Specialist: Word Expert and Excel Expert (Office 2019)
+
+🛫 When I'm not analysing data, I enjoy travelling, reading, playing games and researching market trends. I speak English, Italian and French at an intermediate level
 
 # Biography
 I am a dynamic and proactive professional, deeply passionate about technology, business, and artificial intelligence. My background as a high-performance judo athlete for 5 years instilled in me a disciplined approach, a growth mindset and exceptional time-management skills, which I apply to every professional endeavour. As an innovative data scientist and analyst, I am driven by the opportunities at the intersection of data-driven insights and transformative technologies. My ambition is to catalyse business transformation and make a meaningful impact in today's rapidly evolving business landscape.
