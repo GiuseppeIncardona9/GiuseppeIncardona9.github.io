@@ -3,8 +3,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "CV"
-    url: /files/Giuseppe Curriculum Vitae.pdf
+  #- title: "CV"
+    #url: /files/Giuseppe Curriculum Vitae.pdf
 
   #- title: "Publications"
    # url: /publications/
