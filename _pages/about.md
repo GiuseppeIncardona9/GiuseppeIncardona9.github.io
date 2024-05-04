@@ -8,7 +8,7 @@ redirect_from:
 ---
 👨‍💻 I am a Business Analytics postgraduate student at Bayes Business School (formerly CASS)
 
-📚 I am currently working towards my master's research project, which involves developing an identity resolution framework. This framework matches over 1.1 million Linux Kernel emails to contributors using ML and NLP, crafting algorithms that analyze coding styles and discussion patterns to enhance contributor identification in large-scale open-source project
+📚 I am currently working towards my master's research project, which involves developing an identity resolution framework. This framework matches over 1.1 million Linux Kernel emails to contributors using ML and NLP, crafting algorithms that analyse coding styles and discussion patterns to enhance contributor identification in large-scale open-source project
 
 🏆 I am the recipient of the 'Management & Marketing School Prize for the best undergraduate project' at the University of Greenwich and hold professional certifications in Microsoft Office Specialist: Word Expert and Excel Expert (Office 2019)
 
